@@ -1,3 +1,5 @@
+beautifulsoup4==4.11.2
+requests==2.31.0
 notebook
 jupyterlab
 jupyter-server-proxy
