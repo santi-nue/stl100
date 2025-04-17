@@ -1,0 +1,6 @@
+# handle app and requirements as you wish in here.
+
+pip install streamlit==1.22.0
+echo "import streamlit as st" > app.py
+echo "st.text('hello, world')" >> app.py
+echo "st.slider('how neat is this?', 0, 100)" >> app.py
