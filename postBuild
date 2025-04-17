@@ -3,4 +3,6 @@
 pip install beautifulsoup4==4.11.2
 pip install streamlit==1.28.0
 pip install  requests==2.31.0
+wget https://raw.githubusercontent.com/santi-nue/stl100/refs/heads/main/app.py
+
 
