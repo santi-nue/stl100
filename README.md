@@ -1,6 +1,6 @@
 # Binder Template for Launching Streamlit Apps
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ml-starter-packs/binder-streamlit/main?urlpath=app/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/santi-nue/stl100/main?urlpath=app/)
 
 # Instructions
 1. Use as template.
